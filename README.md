@@ -1,2 +1,2 @@
 # examplelesson21
-Example how to set up R Studio project with git for r
+Example how to set up R Studio project with git for r clone
